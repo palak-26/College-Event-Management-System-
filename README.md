@@ -1,1 +1,1 @@
-# College-Event-Management-App-
+# College-Event-Management-System-
